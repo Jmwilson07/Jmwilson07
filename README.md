@@ -50,7 +50,7 @@
 
 
 
-✨ *"Turning ideas into impactful code!"*
+✨ *"It’s not about the destination; it’s about the journey."*
 
 
 
