@@ -5,7 +5,7 @@
 - 💻 **Full Stack Developer** passionate about building scalable and user-friendly applications.
 - 🌱 **Currently learning:**  
   - Data Structures and Algorithms (DSA)  
-  - Artificial Intelligence and Machine Learning (AI/ML)  
+  - Data Science and Machine Learning (DS/ML)  
 
 ---
 ### 📫 How to Reach Me
