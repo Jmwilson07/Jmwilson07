@@ -44,8 +44,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jmwilson07&layout=compact&theme=radical)
 
 ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson2003)
 
-
+---
 
 
 
