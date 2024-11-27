@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ==Mummalar Wilson J==.
+# 👋 Hi, I'm Mummalar Wilson J
 
 ### 🎓 About Me
 - 🧑‍🎓 **Bachelor's degree:** B.Tech in Artificial Intelligence and Data Science.  
