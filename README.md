@@ -10,7 +10,7 @@
 ---
 ### 📫 How to Reach Me
 - **Email:** [nmummalar@gmail.com](mailto:your.email@example.com)    
-- **LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/wilson2003/)  
+- **LinkedIn:** [linkedin.com/in/wilson2003](https://www.linkedin.com/in/wilson2003/)  
 
 
 ---
