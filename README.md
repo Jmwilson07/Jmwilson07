@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jmwilson07.jmwilson07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jmwilson07.Jmwilson07" />
 
 # 👋 Hi, I'm Mummalar Wilson J
 
