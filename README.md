@@ -3,12 +3,20 @@
 
 # 👋 Hi, I'm Mummalar Wilson J
 
-### 🎓 About Me
-- 🧑‍🎓 **Bachelor's degree:** B.Tech in Artificial Intelligence and Data Science.  
-- 💻 **Full Stack Developer** passionate about building scalable and user-friendly applications.
-- 🌱 **Currently learning:**  
-  - Data Structures and Algorithms (DSA)  
-  - Data Science and Machine Learning (DS/ML)  
+### 👋 Hi, I'm Mummalar Wilson J
+
+🎓 MSc Data Analytics Student | B.Tech in Artificial Intelligence & Data Science
+
+💻 Full Stack Developer with experience in WordPress, Shopify, and web application development.
+
+📊 Passionate about Data Analytics, Data Science, Machine Learning, and AI-driven solutions.
+
+🔍 Currently building projects in Python, SQL, Data Visualization, and Predictive Analytics while preparing for graduate Data Scientist and Data Analyst roles in the UK.
+
+🚀 Open to collaboration, learning opportunities, and data-focused projects.
+
+📫 Reach out: LinkedIn | Email
+
 
 ---
 ### 📫 How to Reach Me
