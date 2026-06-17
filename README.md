@@ -7,7 +7,7 @@
 
 🎓 MSc Data Analytics Student | B.Tech in Artificial Intelligence & Data Science
 
-💻 Full Stack Developer with experience in WordPress, Shopify, and web application development.
+💻 Full Stack Developer and web application development.
 
 📊 Passionate about Data Analytics, Data Science, Machine Learning, and AI-driven solutions.
 
